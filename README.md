@@ -15,6 +15,9 @@ Important: The Scrip doesn't connect to your firewall, It just read the file tha
   get session
   set console page 20
 3. Download the script and place it in the same folder and execute it [or the executable if you're in windows], Be sure that the session filw it's called session.txt and that this file is place in the same script folder.
+you can download the windows executable in the next link [Screepa.zip],
+http://www.4shared.com/zip/E_6QQNr5ba/Screenses.html
+
 4. The policy ranking is going to be saved in the file topolicies.txt [located in the same folder], just open it with a notepad and analyze your traffic.
 5. The final Output shows the policy id number, in order to see the policy you can use the command "get policy id [number]" via SSH.
 
